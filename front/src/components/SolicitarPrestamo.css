@@ -1,0 +1,58 @@
+.solicitar-prestamo-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.solicitar-prestamo-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.solicitar-prestamo-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.solicitar-prestamo-container label {
+    margin-bottom: 5px;
+}
+
+.solicitar-prestamo-container input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.solicitar-prestamo-container button {
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.solicitar-prestamo-container button:hover {
+    background-color: #444;
+}
+
+.solicitar-prestamo-container h3 {
+    margin-top: 20px;
+}
+
+.solicitar-prestamo-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.solicitar-prestamo-container li {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}

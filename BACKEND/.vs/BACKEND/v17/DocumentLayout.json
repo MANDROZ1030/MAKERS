@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\services\\prestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:services\\prestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\interfaces\\iprestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:interfaces\\iprestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\services\\iprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:services\\iprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\repositories\\prestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:repositories\\prestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|c:\\users\\maos9\\onedrive\\documentos\\proyectos\\prueba makers\\makers\\backend\\dtos\\solicitudprestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4925306F-8149-4DFC-BABB-01A6A699F9B9}|BACKEND.csproj|solutionrelative:dtos\\solicitudprestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:01:59.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:58:35.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:56:26.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:55:27.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T21:20:11.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:06:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T21:06:27.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrestamoService.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Services\\IPrestamoService.cs",
+              "RelativeDocumentMoniker": "Services\\IPrestamoService.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Services\\IPrestamoService.cs",
+              "RelativeToolTip": "Services\\IPrestamoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:59:20.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:57:18.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:55:16.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrestamoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Interfaces\\IPrestamoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPrestamoRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Interfaces\\IPrestamoRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPrestamoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:54:45.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Data\\Context.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Data\\Context.cs",
+              "RelativeToolTip": "Data\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:52:21.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrestamoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Repositories\\PrestamoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PrestamoRepository.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Repositories\\PrestamoRepository.cs",
+              "RelativeToolTip": "Repositories\\PrestamoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:51:19.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamoService.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Services\\PrestamoService.cs",
+              "RelativeDocumentMoniker": "Services\\PrestamoService.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Services\\PrestamoService.cs",
+              "RelativeToolTip": "Services\\PrestamoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:50:31.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "Controllers\\PrestamoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:49:54.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SolicitudPrestamoDto.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Dtos\\SolicitudPrestamoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\SolicitudPrestamoDto.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Dtos\\SolicitudPrestamoDto.cs",
+              "RelativeToolTip": "Dtos\\SolicitudPrestamoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:49:23.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:48:32.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\maos9\\OneDrive\\Documentos\\PROYECTOS\\PRUEBA MAKERS\\MAKERS\\BACKEND\\Models\\Prestamo.cs",
+              "RelativeToolTip": "Models\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:48:20.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
