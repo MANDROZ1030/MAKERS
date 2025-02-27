@@ -119,7 +119,7 @@
                 Subject = new ClaimsIdentity(new Claim[]
                 {
                 new Claim(ClaimTypes.Name, usuario.Email),
-                new Claim(ClaimTypes.Role, usuario.Rol) // Agrega el rol si es necesario
+                new Claim(ClaimTypes.Role, usuario.Rol) 
                 }),
                 Expires = DateTime.UtcNow.AddDays(7),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
