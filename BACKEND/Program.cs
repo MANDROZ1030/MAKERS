@@ -10,7 +10,7 @@ using BACKEND.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuración de la cadena de conexión a la base de datos
+// ConfiguraciÃ³n de la cadena de conexiÃ³n a la base de datos
 builder.Services.AddDbContext<Context>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -19,17 +19,17 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAllOrigins",
         builder =>
         {
-            builder.AllowAnyOrigin() // Permitir cualquier origen
-                   .AllowAnyMethod() // Permitir cualquier método (GET, POST, etc.)
-                   .AllowAnyHeader(); // Permitir cualquier encabezado
+            builder.AllowAnyOrigin();
+                   .AllowAnyMethod(); 
+                   .AllowAnyHeader(); 
         });
 });
 
 
-// Configuración de servicios
+// ConfiguraciÃ³n de servicios
 builder.Services.AddControllers();
 
-// Configuración de la autenticación JWT
+// ConfiguraciÃ³n de la autenticaciÃ³n JWT
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -41,7 +41,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateIssuerSigningKey = true,
             ValidIssuer = "tu_issuer", 
             ValidAudience = "tu_audience", 
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("asdfghjklñpoiuytrewqzxcvbnm")) 
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("asdfghjklÃ±poiuytrewqzxcvbnm")) 
         };
     });
 
@@ -69,7 +69,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UseCors("AllowAllOrigins"); // Habilitar CORS aquí
+app.UseCors("AllowAllOrigins");
 app.UseAuthentication();
 app.UseAuthorization();
 
