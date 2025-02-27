@@ -106,7 +106,7 @@
         {
             var usuario = await _context.Usuarios.SingleOrDefaultAsync(u => u.Email == loginDto.Email);
 
-            if (usuario == null || usuario.Password != loginDto.Password) // Compara la contraseña
+            if (usuario == null || usuario.Password != loginDto.Password) 
             {
                 return Unauthorized();
             }
