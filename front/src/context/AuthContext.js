@@ -8,10 +8,10 @@ export const AuthProvider = ({ children }) => {
 
     const login = async (email, password) => {
         const response = await axios.post('http://localhost:5108/api/usuarios/login', { email, password });
-        const userData = { ...response.data, rol: response.data.rol }; // Asegúrate de que el rol esté en la respuesta
+        const userData = { ...response.data, rol: response.data.rol }; 
         setUser(userData);
         localStorage.setItem('token', response.data.token);
-        return userData; // Devuelve el usuario para redirigir según el rol
+        return userData; 
     };
 
     const logout = () => {
