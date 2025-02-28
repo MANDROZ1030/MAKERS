@@ -15,8 +15,8 @@ const SolicitarPrestamo = () => {
                     Authorization: `Bearer ${token}`
                 }
             });
-            setMonto(''); // Limpiar el campo de monto
-            fetchPrestamos(); // Actualizar la lista de préstamos
+            setMonto(''); 
+            fetchPrestamos(); 
         } catch (error) {
             console.error("Error al solicitar préstamo:", error);
         }
@@ -37,7 +37,7 @@ const SolicitarPrestamo = () => {
     };
 
     useEffect(() => {
-        fetchPrestamos(); // Cargar préstamos al montar el componente
+        fetchPrestamos(); 
     }, []);
 
     return (
