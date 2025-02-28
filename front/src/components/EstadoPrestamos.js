@@ -7,7 +7,7 @@ const EstadoPrestamos = () => {
     useEffect(() => {
         const fetchPrestamos = async () => {
             const token = localStorage.getItem('token');
-            const response = await axios.get('http://localhost:5108/api/prestamos/estado/1', { // Cambia el ID según sea necesario
+            const response = await axios.get('http://localhost:5108/api/prestamos/estado/1', { 
                 headers: {
                     Authorization: `Bearer ${token}`
                 }
